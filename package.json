@@ -2,7 +2,7 @@
   "name": "react-tutorial2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://olavurellefsen.github.io/react-tutorial",
+  "homepage": "https://olavurellefsen.github.io/react-tutorial2",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
